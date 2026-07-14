@@ -69,11 +69,7 @@ These libraries were used for downloading the dataset, cleaning data, performing
 
 ## Step 2: Download and Load the Dataset
 
-The freelancer dataset was downloaded directly from Kaggle using KaggleHub.
-
-After downloading, it was loaded into a Pandas DataFrame for analysis.
-
-This step ensured that the dataset was successfully imported and ready for preprocessing.
+The freelancer dataset was downloaded directly from Kaggle using KaggleHub. After downloading, it was loaded into a Pandas DataFrame for analysis. This step ensured that the dataset was successfully imported and ready for preprocessing.
 
 ---
 
