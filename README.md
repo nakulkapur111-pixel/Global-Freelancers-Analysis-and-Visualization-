@@ -250,6 +250,9 @@ The dataset was grouped by country.
 
 A bar chart was created to compare freelancer distribution across countries.
 
+<img width="368" height="264" alt="image" src="https://github.com/user-attachments/assets/718fc37f-6415-4181-8a7a-f6811b612bc6" />
+
+
 ### Insight
 
 - Some countries contribute significantly more freelancers than others.
