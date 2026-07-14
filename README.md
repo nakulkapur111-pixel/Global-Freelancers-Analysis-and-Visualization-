@@ -337,7 +337,7 @@ The relationships among these variables were visualized using a heatmap.
 - Positive correlations indicate variables that tend to increase together.
 - The heatmap provides a quick understanding of how experience, earnings, and client satisfaction interact.
 - Correlation analysis serves as a useful starting point for predictive modeling and further statistical analysis.
-<img width="556" height="654" alt="image" src="https://github.com/user-attachments/assets/233a1e7d-8449-4531-8215-9355694ca66c" />
+<img width="772" height="819" alt="image" src="https://github.com/user-attachments/assets/19e7dd60-2a4f-4503-a7ef-8c97a986ccef" />
 
 ---
 
